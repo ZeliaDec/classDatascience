@@ -3,3 +3,6 @@ pandas
 plotly
 matplotlib
 yfinance
+train_test_split
+StandardScaler
+LogisticRegression
